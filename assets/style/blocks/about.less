@@ -1,0 +1,86 @@
+// main: ../style.less
+
+.about {
+    margin: 8.4rem 0;
+    
+    @media @tablet {
+        margin: 4rem 0;
+    }
+}
+
+.about__inner {
+    display: flex;
+    max-width: 1090px;
+    flex-wrap: wrap;
+}
+
+.about__photo {
+    flex-basis: 50%;
+    
+    @media @tablet {
+        flex-basis: 100%;
+        order: 2;
+        
+        .img {
+            margin: 0 auto;
+        }
+    }
+}
+.about__content {
+    margin-top: 2rem;
+    padding-left: 3.2rem;
+    flex-basis: 50%;
+    
+     @media @tablet {
+         margin-bottom: 2rem;
+        flex-basis: 100%;
+         padding-left: 0;
+         order: 1;
+         text-align: center;
+         max-width: 600px;
+         margin-left: auto;
+         margin-right: auto;
+    }
+}
+.about__title {
+    font-size: 3rem;
+    color: @black;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+      @media @notebook {
+        font-size: 2.5rem;
+    }
+    
+    @media @mobile {
+        font-size: 2rem;
+    }
+}
+.about__bigtitle {
+    position: relative;
+    left: -10px;
+    margin-bottom: 1.4rem;
+    font-size: 6.1rem;
+    line-height: 1.1;
+    color: fade(@black, 15%);
+    font-weight: 700;
+    text-transform: uppercase;
+    
+    @media @notebook {
+        font-size: 4rem;
+    }
+    @media @tablet {
+        position: static;
+    }
+      @media @mobile {
+        font-size: 3rem;
+    }
+}
+
+.about__text {
+    margin-bottom: 2.8rem;
+    font-size: .8rem;
+    color: @gray;
+    line-height: 2;
+    font-weight: 300;
+}
