@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style/blocks/intro.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/blocks/intro.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_06.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_08.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_20.gif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gSDwzLCnzroJPUcqr5bh9E4zBQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/верстка 4/assets/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="" />
+      <created>1598099342437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598099342437</updated>
+      <workItem from="1598099343537" duration="1670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="142" key="EditFileWatcherDialog" timestamp="1598100837619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="351" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1598100837619" />
+    <state x="205" y="17" key="SettingsEditor" timestamp="1598100751352">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="205" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598100751352" />
+  </component>
+</project>
