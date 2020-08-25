@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/blocks/intro.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/blocks/intro.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_02.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_06.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_08.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_10.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_12.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_17.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_19.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/UI43-FreeTemplate_DesignerPortfolio_20.gif" beforeDir="false" />
-    </list>
+    <list default="true" id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598099342437</updated>
       <workItem from="1598099343537" duration="1670000" />
+      <workItem from="1598351331371" duration="57000" />
     </task>
     <servers />
   </component>
