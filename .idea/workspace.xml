@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="" />
+    <list default="true" id="46932008-e701-4cb6-9b34-785a0a6db89a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../REACT/project1" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunManager">
@@ -44,6 +46,9 @@
       <updated>1598099342437</updated>
       <workItem from="1598099343537" duration="1670000" />
       <workItem from="1598351331371" duration="57000" />
+      <workItem from="1598435998379" duration="606000" />
+      <workItem from="1598539203031" duration="11000" />
+      <workItem from="1598603584540" duration="234000" />
     </task>
     <servers />
   </component>
@@ -55,6 +60,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="351" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1598100837619" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598603817353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598603817353" />
     <state x="205" y="17" key="SettingsEditor" timestamp="1598100751352">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
